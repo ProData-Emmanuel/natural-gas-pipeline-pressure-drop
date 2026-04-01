@@ -38,6 +38,16 @@ This project bridges classical gas pipeline engineering theory with modern compu
 
 ---
 
+## 🚀 Live App
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://natural-gas-pipeline-pressure-drop-2of7a8cnmikh2pr23kl3cf.streamlit.app)
+
+Try the deployed Streamlit app here:
+
+[Open the Natural Gas Pipeline Pressure Drop App](https://natural-gas-pipeline-pressure-drop-2of7a8cnmikh2pr23kl3cf.streamlit.app)
+
+---
+
 ## 🧪 Engineering Assumptions
 
 The analysis is based on the following simplifying assumptions:
@@ -126,11 +136,32 @@ natural-gas-pipeline-pressure-drop/
 ├── notebooks/
 │   └── pipeline_pressure_drop.ipynb
 ├── results/
-│   └── plots/
+│   ├── app_interface.png
+│   ├── model_comparison.png
+│   ├── sensitivity_flow.png
+│   ├── sensitivity_diameter.png
+│   ├── network_analysis.png
 ├── README.md
 ├── requirements.txt
 └── streamlit_app.py
 
+---
+
+## 📊 Sample Outputs
+
+### Model Comparison
+![Model Comparison](results/model_comparison.png)
+
+### Sensitivity Analysis (Flow Rate)
+![Flow Sensitivity](results/sensitivity_flow.png)
+
+### Sensitivity Analysis (Diameter)
+![Diameter Sensitivity](results/sensitivity_diameter.png)
+
+### Application Interface
+![App Interface](results/app_interface.png)
+
+---
 
 ## 🧑‍💻 Author
 
