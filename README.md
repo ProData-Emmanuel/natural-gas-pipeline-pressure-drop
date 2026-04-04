@@ -167,4 +167,4 @@ natural-gas-pipeline-pressure-drop/
 ## 🧑‍💻 Author
 
 **Emmanuel S. Okeke**  
-M.Eng Gas Engineering | Pipeline Hydraulics | Energy Systems  
+Gas Engineering | Pipeline Hydraulics | Energy Systems  
